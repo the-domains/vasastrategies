@@ -1,0 +1,28 @@
+name: VasaStrategies
+favicon: null
+layout_spectrum: 0.23539313999935985
+typography_spectrum: 0.03031074721366167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4450744241476059
+  lightness: 0.5908658523112535
+  saturation: 0.16290430282242596
+  rhythmicContrast: 0.3006284909788519
+purpose: []
